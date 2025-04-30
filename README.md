@@ -5,6 +5,13 @@ ReadME용 깃허브
 1. 인터넷에 존재하는 리드미 전용 에디터를 통해서 편집하는 것
 2. 자체 문법으로 처리
 
+# 목차
+1. [제목](#제목)  
+2. [이미지](#이미지)  
+3. [순서별 표현법](#순서별-표현법)  
+
+
+
 # 제목
 ## 개수가 많아지면 글씨가 작아짐.
 ### 테스트2
@@ -43,7 +50,7 @@ ReadME용 깃허브
 2. [내 GitHub](https://github.com/jisunglim27)
 3. [유니티 GitHub](github.com/jhcsharp01, "강사님 깃허브")
 
-### 이미지
+## 이미지
 ![image](https://github.com/user-attachments/assets/6686eaac-af36-43f8-b2d9-aa7f6683d720)
 
 
